@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "769803144200",
+    "project_id": "multivendor-3f08e",
+    "storage_bucket": "multivendor-3f08e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769803144200:android:5ba427f739c6b241df15bd",
+        "android_client_info": {
+          "package_name": "com.example.multivendor_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769803144200-hckcauf2rlmotqppo5la9dpipetead4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuquJcFSefLq7a4TeeACrtlTS0G-u1ZuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769803144200-hckcauf2rlmotqppo5la9dpipetead4d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "769803144200-3bokom7p0pdoop2t13osms24ajl8loj3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.multivendorAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769803144200:android:7ca5a8490e8173d7df15bd",
+        "android_client_info": {
+          "package_name": "com.meenal.multivendor_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769803144200-hckcauf2rlmotqppo5la9dpipetead4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuquJcFSefLq7a4TeeACrtlTS0G-u1ZuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769803144200-hckcauf2rlmotqppo5la9dpipetead4d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "769803144200-3bokom7p0pdoop2t13osms24ajl8loj3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.multivendorAdmin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
