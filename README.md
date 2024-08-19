@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.licdn.com/dms/image/C5612AQFZ1BzdKmVdIA/article-inline_image-shrink_1500_2232/0/1607430128500?e=1727308800&v=beta&t=-SJiRb1aiz6b0jU0gv3CYvR6Jyhjh3ooe4THjnhpYZk" align ="center" height="200" width="400" >
+<img src="https://media.licdn.com/dms/image/C5612AQFZ1BzdKmVdIA/article-inline_image-shrink_1500_2232/0/1607430128500?e=1727308800&v=beta&t=-SJiRb1aiz6b0jU0gv3CYvR6Jyhjh3ooe4THjnhpYZk" align ="center" height="300" width="400" >
   </p>
 
 <H1> MarketConnect💙 </H1>
