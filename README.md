@@ -14,22 +14,13 @@
 - [Screenshots](#screenshots)
 </details>
 <h3 name="aim">  About RideSwiftly </h3>
-<p>This App contains a user-app,
-  driver-app and an admin-dashboard-webapp, and the data flows dynamically in all three apps, managing and tracking the rides.</p>
+<p>This App contains a customer-app,
+  vendor-app and an admin-dashboard-webapp, and the data flows dynamically in all three apps, managing and tracking the rides.</p>
 <hr>
 <h3 name="key-features"> Key Features Implemented </h3>
 <ul>
     <li>
         <p>Email-Password login using FirebaseAuth</p>
-    </li>
-    <li>
-        <p>Geolocator, to access the driver and user's exact location</p>
-    </li>
-    <li>
-        <p>Forward and Reverse Geocoding APIs, to convert LatLng to Human Readable address and vice versa.</p>
-    </li>
-    <li>
-        <p>Online drivers available in users radius of 12km are displayed</p>
     </li>
     <li>
         <p>Encoded points extracted using direction API is used to draw polyline routes from source to destination.</p>
