@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://img.freepik.com/free-vector/taxi-service-app-concept_23-2148471761.jpg?t=st=1714892994~exp=1714896594~hmac=b28b623c17400c299e802ebb8516f45472d30f5001ab006e69492a053e1547b6&w=996" align ="center" height="190" width="300" >
+<img src="https://media.licdn.com/dms/image/C5612AQFZ1BzdKmVdIA/article-inline_image-shrink_1500_2232/0/1607430128500?e=1727308800&v=beta&t=-SJiRb1aiz6b0jU0gv3CYvR6Jyhjh3ooe4THjnhpYZk" align ="center" height="190" width="300" >
   </p>
 
 <H1> MarketConnect💙 </H1>
