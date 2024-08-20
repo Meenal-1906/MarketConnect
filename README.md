@@ -2,8 +2,8 @@
 <img src="https://media.licdn.com/dms/image/C5612AQFZ1BzdKmVdIA/article-inline_image-shrink_1500_2232/0/1607430128500?e=1727308800&v=beta&t=-SJiRb1aiz6b0jU0gv3CYvR6Jyhjh3ooe4THjnhpYZk" align ="center" height="270" width="400" >
   </p>
 
-<H1> MarketConnect💙 </H1>
-<H3> A multivendor app made using flutter💙💫 </H3>
+<H1> MarketConnect 🛒 </H1>
+<H3> A multivendor app made using flutter✨ </H3>
 
 <details>
 <summary>Table of Contents</summary>
@@ -13,7 +13,7 @@
 - [Key Features](#key-features)
 - [Screenshots](#screenshots)
 </details>
-<h3 name="aim">  About RideSwiftly </h3>
+<h3 name="aim">  About MarketConnect </h3>
 <p>This App contains a customer-app,
   vendor-app and an admin-dashboard-webapp, and the data flows dynamically in all three apps, managing and tracking the rides.</p>
 <hr>
