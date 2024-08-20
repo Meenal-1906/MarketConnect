@@ -23,7 +23,7 @@
         <p>Email-Password login using FirebaseAuth</p>
     </li>
     <li>
-        <p>Encoded points extracted using direction API is used to draw polyline routes from source to destination.</p>
+        <p>Real-time data synchronisation using Firebase.</p>
     </li>
   <li>
         <p>Fare Amount is collected after each ride and deposited in Driver's earnings.</p>
@@ -43,8 +43,5 @@
     </li>
     <li>
         <p>Provider State Management</p>
-    </li>
-    <li>
-        <p>LocationIQ APIs</p>
     </li>
 </ul>
