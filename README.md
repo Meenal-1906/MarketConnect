@@ -26,10 +26,10 @@
         <p>Real-time data synchronisation using Firebase.</p>
     </li>
   <li>
-        <p>Fare Amount is collected after each ride and deposited in Driver's earnings.</p>
+        <p>Users can add products to their cart.</p>
     </li>
     <li>
-        <p>All Completed Trips are displayed to user, driver and admin in their respective apps.</p>
+        <p>Separate dashboards for vendors to manage their products.</p>
     </li>
 </ul>
 <h3 name="tech-stack">TechStacks Used</h3>
