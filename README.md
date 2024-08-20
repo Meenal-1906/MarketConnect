@@ -46,3 +46,18 @@
     </li>
 </ul>
 <h3 name="screenshots">A Few Screenshots</h3>
+
+<div style="display: flex; justify-content: center;">
+  <img src="https://github.com/user-attachments/assets/b70c7d33-0af4-4ba8-a89b-0ccc53b91f6c" width="750" height="500" alt="WhatsApp Image">
+  <img src="https://github.com/user-attachments/assets/ae76aabc-a9ff-4920-9d73-80fd63fe8680" width="750" height="500" alt="WhatsApp Image">
+  <img src="(https://github.com/user-attachments/assets/ef1f739f-81ca-4759-a2e8-e5c570f576bd" width="750" height="500" alt="WhatsApp Image">
+  <img src="https://github.com/user-attachments/assets/88a77fdd-2620-4c3f-9707-94c7ba20a50e" width="750" height="500" alt="WhatsApp Image">
+  <img src="https://github.com/user-attachments/assets/49642a4a-9e24-4416-bbe8-e899e1f605e0" width="750" height="500" alt="WhatsApp Image">
+  <img src="https://github.com/user-attachments/assets/7fe89390-6143-44f0-aee5-ef2bb6f21eb0" width="750" height="500" alt="WhatsApp Image">
+  <img src="https://github.com/user-attachments/assets/afb82c5c-a9e6-4ffc-9640-5c0dacd4d515" width="750" height="500" alt="WhatsApp Image">
+  <img src="https://github.com/user-attachments/assets/e028fd6c-870b-454e-a647-e784839b1759" width="750" height="500" alt="WhatsApp Image">
+</div>
+
+
+
+<h2> Made with ❤️ by <I>Meenal Gupta</I> </h2>
